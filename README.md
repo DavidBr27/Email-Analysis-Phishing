@@ -1,7 +1,8 @@
 # 🛡️ Email Header & Attachment Analysis (Phishing)
 
 
-![image](https://github.com/user-attachments/assets/a27d2520-f037-440c-b832-4461a94358f0)
+![image](https://github.com/user-attachments/assets/e92f253d-95c8-498e-8597-052532dcd698)
+
 
 ---
 
