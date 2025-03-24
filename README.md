@@ -1,4 +1,7 @@
-# 🛡️ Email Header & Attachment Analysis (Phishing Case Study)
+# 🛡️ Email Header & Attachment Analysis (Phishing)
+
+
+![image](https://github.com/user-attachments/assets/a27d2520-f037-440c-b832-4461a94358f0)
 
 ---
 
